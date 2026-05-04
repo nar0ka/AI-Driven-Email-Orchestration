@@ -1,7 +1,7 @@
 # ✉️ AI-Driven Email Orchestration
 
 ### 🛠 Architecture Preview
-![DeepPublish Schema](изображение_2026-04-28_005541412.png)
+![DeepPublish Schema](Gemini_Generated_Image_.png)
 
 
 Automate your email triage and routing with Gemini AI. Instantly process leads, support tickets, and filter spam 24/7.
