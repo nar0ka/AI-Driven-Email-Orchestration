@@ -4,6 +4,7 @@
 ![DeepPublish Schema](Gemini_Generated_Image_.png)
 
 
+
 Automate your email triage and routing with Gemini AI. Instantly process leads, support tickets, and filter spam 24/7.
 
 ## 🏗 Architecture Workflow
